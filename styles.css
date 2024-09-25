@@ -1,0 +1,73 @@
+.main-title {
+    text-align: center;
+    color: white;
+    padding: 60px;
+    background-color: darkseagreen;
+    font-size: 45px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    padding: 30px;
+    background-color: darkseagreen;
+    color: white;
+}
+
+.sub-heading {
+    color: darkseagreen;
+    font-size: 32px
+}
+
+.p1 {
+    color: darkseagreen;
+    font-size: 25px;
+}
+
+
+#about-this-site {
+    color: darkseagreen;
+    font-size: 50px;
+}
+
+.languages {
+    color: darkseagreen;
+    font-size: 25px;
+}
+
+.code-lang {
+    color: darkseagreen;
+    font-size: 25px
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+ol {
+    color: darkseagreen;
+    font-size: 25px;
+}
+
+#likes {
+    color: darkseagreen;
+    font-size: 50px;
+}
+
+.westminster {
+    width: 150px
+}
+
+#dislikes {
+    color: darkseagreen;
+    font-size: 50px
+}
+
+.answer {
+    color: darkseagreen;
+    font-size: 25px;
+}
